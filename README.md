@@ -1,1 +1,1 @@
-# Weather-App
+In this project, I take input from the user, allowing them to enter a country, city, or state, and provide the current weather details for the specified location. Additionally, I track the user's current location to automatically display weather information for their area. I'm using the WeatherAPI (Link: https://www.weatherapi.com/) to access accurate and up-to-date weather information.
